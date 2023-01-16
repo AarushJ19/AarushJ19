@@ -4,7 +4,7 @@
 ### 👨‍💻About me:
 I am a computer-science sophomore pursuing my Bachelors in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS 👨🏽‍💻</br>
 </br>- 🔭 I’m currently working: Movie Streaming Website
-</br>- 🔭Academic project to implement advanced library management system.  
+</br>- 🔭Academic project to implement command line library management system.  
 
 ### 📫Let's connect:
 <a href="mailto:aarushjain135@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>&nbsp;&nbsp;

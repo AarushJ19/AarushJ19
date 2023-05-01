@@ -4,6 +4,7 @@
 ### 👨‍💻About me:
 I am a computer-science sophomore pursuing my Bachelors in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS/Svelte 👨🏽‍💻</br>
 </br>- 🔭 An all-in-one team collaboration tool that can be hosted on your own server, offering a complete range of features for seamless communication and collaboration.
+</br>- 🔭 An annual budget management application to help in expenditures based on JAVA
 </br>- 🔭Academic project to implement command line library management system.  
 
 ### 📫Let's connect:

@@ -3,7 +3,7 @@
 <a href="https://github.com/AarushJ19"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Full+Stack+Developer;Security+Inclined;Curious%2C+Progress+Oriented%2C+Analytical" alt="Typing SVG" /></a></br>
 ### 👨‍💻About me:
 I am a computer-science sophomore pursuing my Bachelors' in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS/Svelte 👨🏽‍💻</br>
-</br> Currently working on making a payment gateway for ISKCON international for donations from around the world.
+</br> 🎯 Currently working on making a payment gateway for ISKCON international for donations from around the world.</br>
 </br>- 🔭 An all-in-one team collaboration tool that can be hosted on your own server, offering a complete range of seamless communication and collaboration features.
 </br>- 🔭 An annual budget management application to help in expenditures based on JAVA
 </br>- 🔭Academic project to implement command line library management system.  

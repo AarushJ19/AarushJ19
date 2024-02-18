@@ -10,7 +10,7 @@ Focused on Positive Technological Impact<br>
 Committed to Continuous Growth<br>
 Open to Collaborative Opportunities<br>
 <br>🎯 Currently working on developing a 2-in-1 Network Packet Sniffer and Vulnerability Scanner.<br>
-</br> 🔭 Made a payment gateway for ISKCON international for donations from around the world.</br>
+</br>- 🔭 Made a payment gateway for ISKCON international for donations from around the world.
 </br>- 🔭 An all-in-one team collaboration tool that can be hosted on your own server, offering a complete range of seamless communication and collaboration features.
 </br>- 🔭 An annual budget management application to help in expenditures based on JAVA
 </br>- 🔭Academic project to implement command line library management system.  

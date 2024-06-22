@@ -9,12 +9,13 @@ Foundational Understanding of PHP<br>
 Focused on Positive Technological Impact<br>
 Committed to Continuous Growth<br>
 Open to Collaborative Opportunities<br>
-<br>🎯 Currently working on developing a 2-in-1 Network Packet Sniffer and Vulnerability Scanner.<br>
-</br>- 🔭 Made a payment gateway for ISKCON international for donations from around the world.
+<br>🎯 Working on developing a MERN based Social Platform<br>
 </br>- 🔭 An all-in-one team collaboration tool that can be hosted on your own server, offering a complete range of seamless communication and collaboration features.
+</br>- 🔭Developed a Network Packet Sniffer and Vulnerability Scanner as Project Based Learning.
+</br>- 🔭 Made a payment gateway for ISKCON international for donations from around the world.
 </br>- 🔭 An annual budget management application to help in expenditures based on JAVA
 </br>- 🔭Academic project to implement command line library management system.  
-</br>- 🔭Currently making a skill-exchanging platform on MERN
+
 
 ### 📫Let's connect:
 <a href="mailto:aarushjain135@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>&nbsp;&nbsp;

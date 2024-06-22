@@ -25,10 +25,16 @@ Open to Collaborative Opportunities<br>
 <a href="https://www.cprogramming.com" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png" alt="C Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.cplusplus.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/cplusplus-1-1175244.png" alt="C++ Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>&nbsp;
-<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:50px;height:50px;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>&nbsp;&nbsp;
+<a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/html-5-1-1175208.png" alt="HTML5 Programming" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50" height="50" alt="Wireshark" /></a>
 
 <!--
 <a href="https://github.com/AarushJ19">

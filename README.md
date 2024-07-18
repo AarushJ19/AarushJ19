@@ -3,8 +3,8 @@
 <a href="https://github.com/AarushJ19"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Full+Stack+Developer;Security+Inclined;Curious%2C+Progress+Oriented%2C+Analytical" alt="Typing SVG" /></a></br>
 ### 👨‍💻About me:
 I am a computer-science senior pursuing my Bachelors' in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS/Svelte 👨🏽‍💻</br>
-Computer Science Junior | Cybersecurity Enthusiast<br>
-Programming Proficiency: C, C++, HTML, CSS, JS, Python<br>
+Computer Science Senior | Cybersecurity Enthusiast<br>
+Programming Proficiency: Javascript, HTML, CSS, NodeJs, Python, Svelte<br>
 Foundational Understanding of PHP<br>
 Focused on Positive Technological Impact<br>
 Committed to Continuous Growth<br>
@@ -33,7 +33,7 @@ Open to Collaborative Opportunities<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="50" height="50" alt="MongoDB" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>
+<!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" /></a>-->
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" width="50" height="50" alt="Wireshark" /></a>
 
 <!--

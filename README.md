@@ -4,7 +4,7 @@
 ### 👨‍💻About me:
 I am a computer-science senior pursuing my Bachelors' in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS/Svelte 👨🏽‍💻</br>
 Computer Science Senior | Cybersecurity Enthusiast<br>
-Programming Proficiency: Javascript, HTML, CSS, NodeJs, Python, Svelte<br>
+Programming Proficiency: Javascript, HTML, CSS, NodeJs, React, Svelte<br>
 Foundational Understanding of PHP<br>
 Focused on Positive Technological Impact<br>
 Committed to Continuous Growth<br>

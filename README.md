@@ -2,9 +2,9 @@
 
 <a href="https://github.com/AarushJ19"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&pause=500&color=2EA1D3&center=true&width=935&height=55&lines=Engineering+Student;Full+Stack+Developer;Security+Inclined;Curious%2C+Progress+Oriented%2C+Analytical" alt="Typing SVG" /></a></br>
 ### 👨‍💻About me:
-I am a computer-science senior pursuing my Bachelors' in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in C/C++/Python/HTML/CSS/JS/Svelte 👨🏽‍💻</br>
+I am a computer-science senior pursuing my Bachelors' in Symbiosis International University. </br>Full-Stack enthusiast and avid learner. </br>Training in Javascript/SQL/HTML/CSS/Svelte 👨🏽‍💻</br>
 Computer Science Senior | Cybersecurity Enthusiast<br>
-Programming Proficiency: Javascript, HTML, CSS, NodeJs, React, Svelte<br>
+Programming Proficiency: Javascript, HTML, CSS, NodeJs, React, SQL, Svelte<br>
 Foundational Understanding of PHP<br>
 Focused on Positive Technological Impact<br>
 Committed to Continuous Growth<br>
@@ -12,6 +12,7 @@ Open to Collaborative Opportunities<br>
 <br>🎯 Working on developing a MERN based Social Platform<br>
 </br>- 🔭 An all-in-one team collaboration tool that can be hosted on your own server, offering a complete range of seamless communication and collaboration features.
 </br>- 🔭Developed a Network Packet Sniffer and Vulnerability Scanner as Project Based Learning.
+</br>- 🔭 Made an Automated email system which labels and replies based on the context via openai, with all endpoints automated.
 </br>- 🔭 Made a payment gateway for ISKCON international for donations from around the world.
 </br>- 🔭 An annual budget management application to help in expenditures based on JAVA
 </br>- 🔭Academic project to implement command line library management system.  
